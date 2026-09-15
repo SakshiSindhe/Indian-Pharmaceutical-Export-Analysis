@@ -11,7 +11,7 @@ from scipy.stats import linregress
 
 # 1. LOAD THE EXTERNAL DATA
 
-df = pd.read_csv("C:\Users\DELL\Downloads\DGCIS_DATA.csv")
+df = pd.read_csv("DGCIS_DATA.csv")
 
 print("First five rows:")
 print(df.head())
